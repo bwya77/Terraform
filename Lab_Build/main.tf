@@ -12,7 +12,7 @@ locals {
   location              = "North Central US"
   virtual_network       = "10.0.0.0/16"
   internal_subnet       = "10.0.2.0/24"
-  office_wan            = "184.170.166.246"
+  office_wan            = "181.171.161.241"
   nsg_name              = "adds"
 }
 
